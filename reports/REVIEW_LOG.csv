@@ -1,0 +1,6 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe bị AI bỏ sót,added,Xe thật nhìn thấy rõ nhưng AI không có khung nên vẽ thêm khung ôm sát thân xe
+1,frame_0099.jpg,xe có khung AI chưa bao hết thân xe,edited,Khung cắt mất một phần thân xe nên kéo cạnh ra để ôm sát kể cả đèn
+1,frame_0326.jpg,khung trên vệt đèn pha ở mặt đường,deleted,Vệt sáng không phải xe nên xóa khung
+1,frame_0326.jpg,xe có khung AI lệch khỏi thân xe,edited,Khung bị lệch nên kéo lại cho ôm sát thân xe
+1,frame_0331.jpg,khung AI không nằm trên xe thật,deleted,Khung không đúng xe nên xóa
